@@ -1,1 +1,1 @@
-ios App
+DISTRIBUTE ENTERPRISE-SIGNED IPHONE IPA FILES via Your own web server
